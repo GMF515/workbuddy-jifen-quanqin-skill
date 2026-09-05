@@ -45,3 +45,8 @@ WorkBuddy 会在后台建一个定时任务，每天自动领，你什么都不�
 - 今天领过再领不会重复，也不会报错
 
 MIT 协议，可自由修改和分享。
+
+---
+
+如果觉得好用，欢迎在 GitHub 点个 Star ⭐：
+https://github.com/GMF515/workbuddy-jifen-quanqin-skill
